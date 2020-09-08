@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acf49a84-92dc-4266-a039-482ca8a9b5d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1d0EGiZWjwHjirgMWmRvrS2BWNy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowDebug.ShowToolbar" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="13.0.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/node/download-torrent-url.js" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 202.5103.13\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IntelliJ Projects\webtorrent\test\node" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.Test Torrent URL">
+    <configuration name="Test Torrent URL" type="NodeJSConfigurationType" path-to-js-file="test/node/download-torrent-url.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="build-chromeapp" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build-chromeapp" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test-node" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test-node" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.Test Torrent URL" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.build-chromeapp" />
+      <item itemvalue="npm.test-node" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.test-node" />
+        <item itemvalue="npm.build-chromeapp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="205" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591636477637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="445" y="205" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591636477637" />
+    <state x="771" y="279" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1591636422378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="279" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591636422378" />
+    <state x="612" y="387" key="#xdebugger.evaluate" timestamp="1591557088185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="612" y="387" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1591557088185" />
+    <state width="1150" height="466" key="DebuggerActiveHint" timestamp="1591637192393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1150" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1591637192393" />
+    <state x="736" y="246" key="FileChooserDialogImpl" timestamp="1591636476641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="246" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591636476641" />
+    <state width="1877" height="382" key="GridCell.Tab.0.bottom" timestamp="1591637466927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591637466927" />
+    <state width="1877" height="382" key="GridCell.Tab.0.center" timestamp="1591637466927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591637466927" />
+    <state width="1877" height="382" key="GridCell.Tab.0.left" timestamp="1591637466927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591637466927" />
+    <state width="1877" height="382" key="GridCell.Tab.0.right" timestamp="1591637466927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591637466927" />
+    <state width="1877" height="382" key="GridCell.Tab.1.bottom" timestamp="1591637466928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591637466928" />
+    <state width="1877" height="382" key="GridCell.Tab.1.center" timestamp="1591637466927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591637466927" />
+    <state width="1877" height="382" key="GridCell.Tab.1.left" timestamp="1591637466927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591637466927" />
+    <state width="1877" height="382" key="GridCell.Tab.1.right" timestamp="1591637466927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591637466927" />
+    <state width="1877" height="382" key="GridCell.Tab.2.bottom" timestamp="1591637466928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591637466928" />
+    <state width="1877" height="382" key="GridCell.Tab.2.center" timestamp="1591637466928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591637466928" />
+    <state width="1877" height="382" key="GridCell.Tab.2.left" timestamp="1591637466928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591637466928" />
+    <state width="1877" height="382" key="GridCell.Tab.2.right" timestamp="1591637466928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591637466928" />
+    <state width="1877" height="382" key="GridCell.Tab.3.bottom" timestamp="1591637466928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591637466928" />
+    <state width="1877" height="382" key="GridCell.Tab.3.center" timestamp="1591637466928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591637466928" />
+    <state width="1877" height="382" key="GridCell.Tab.3.left" timestamp="1591637466928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591637466928" />
+    <state width="1877" height="382" key="GridCell.Tab.3.right" timestamp="1591637466928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="382" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591637466928" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1591622244153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591622244153" />
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1591619320726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591619320726" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1591559028859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591559028859" />
+  </component>
+</project>
